@@ -1,0 +1,7 @@
+.main-body {
+    display: flex;
+}
+
+.pages{
+    flex: 0.85;
+}

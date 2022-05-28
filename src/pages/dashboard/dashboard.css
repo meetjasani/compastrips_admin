@@ -1,0 +1,16 @@
+.dashboard_header{
+    height: 8%;
+    width: 100%;
+    background-color: #444444; 
+    color: #fff;
+    display: flex;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    align-items: center;
+    text-align: left;
+}
+
+.dashboard_header>h2{
+    padding-left: 20px;
+    font-weight: 500;
+}
